@@ -23,6 +23,7 @@ public class FizzBuzz {
                 res.append(str+" ");
             
         }
+        System.out.println(res);
         return res.toString();
     }
 }
